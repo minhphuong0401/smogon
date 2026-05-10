@@ -56,7 +56,7 @@
     },
     "credits": {"writtenBy": [{"user_id": 452572, "username": "missangelic"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 567483, "username": "Bella"}, {"user_id": 414072, "username": "Yunie"}]}, {"name": "Grammar checked by", "members": [{"user_id": 242745, "username": "ego"}, {"user_id": 336073, "username": "Rabia"}]}]}
   },
-  "Typhlosion-Hisui": {"sets": {"Heavy-Duty Boots": {}, "Choice Item": {}, "Substitute + Calm Mind": {}}},
+  "Typhlosion-Hisui": {"sets": {"Choice Item": {}, "Heavy-Duty Boots": {}, "Substitute + Calm Mind": {}}},
   "Lanturn": {"sets": {"RestTalk": {}}},
   "Qwilfish": {
     "sets": {
