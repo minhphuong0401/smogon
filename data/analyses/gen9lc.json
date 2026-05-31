@@ -1,5 +1,13 @@
 {
   "Charmander": {"sets": {"Sun Wallbreaker": {}}},
+  "Ekans": {
+    "sets": {
+      "Utility": {
+        "description": "<p>Ekans is an alternative Fighting-resistant Pokemon that can make progress through its utility moves and Intimidate. Knock Off allows for guaranteed progress against Pokemon like Mienfoo, Mudbray, and Foongus. Earthquake coverage hits Electric-types, such as Elekid and Chinchou, as well as Tinkatink and Poison-types that want to switch in. The Special Defense investment is enough to survive an Earth Power from Toedscool, and it helps with the Electric-types. The Speed investment is to Speed tie with Vullaby and Glimmet. Ekans can get off a Glare on Vullaby or threaten to OHKO Glimmet with Earthquake. Ekans uses Tera Dark to flip the script on Gothita, becoming immune to its Psychic and OHKOing with Knock Off, and to resist a Sucker Punch or Knock Off that would otherwise KO.</p> <p>Ekans is an offensive Fighting-resistant Pokemon that can only afford to check Mienfoo once, although Ekans typically cripples Mienfoo with Glare plus Knock Off. This enables other Pokemon to break Mienfoo, or allows for setup moves or Substitute to be used against it. Good partners for Ekans include Swords Dance + Substitute Mienfoo, Nasty Plot Vullaby, Swords Dance Alolan Sandshrew, and Substitute Elekid. Ekans can also act as a panic check to Pokemon like Hisuian Growlithe and Alolan Sandshrew, thanks to Intimidate. Ekans is weak to entry hazards and Ground-types. This makes a Grass-type Pokemon almost mandatory on Ekans teams, such as Toedscool or Chespin.</p>"
+      }
+    },
+    "credits": {"writtenBy": [{"user_id": 588507, "username": "emptywisdom"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 605215, "username": "Flou"}, {"user_id": 537035, "username": "Rahul"}]}, {"name": "Grammar checked by", "members": [{"user_id": 537035, "username": "Rahul"}]}]}
+  },
   "Sandshrew": {"sets": {"Sand Sweeper": {}}},
   "Sandshrew-Alola": {
     "sets": {
@@ -104,6 +112,14 @@
     "credits": {"writtenBy": [{"user_id": 649184, "username": "xonks"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 537035, "username": "Rahul"}, {"user_id": 440139, "username": "Éric"}]}, {"name": "Grammar checked by", "members": [{"user_id": 391343, "username": "EthanLac"}]}]}
   },
   "Corphish": {"sets": {"Dragon Dance": {}}},
+  "Cranidos": {
+    "sets": {
+      "Choice Scarf": {
+        "description": "<p>Choice Scarf Cranidos is a second-rate revenge-killer with a massive Attack stat. Cranidos threatens to 2HKO the entire tier with its coverage, notably Zen Headbutt for the Poison-types and Mienfoo, Fire Punch for Tinkatink and Alolan Sandshrew, either Rock Slide or Head Smash for Vullaby and general damage, and Trailblaze for Mudbray. Choice Scarf makes Cranidos prediction reliant in order to land these 2HKOs. Head Smash is used over Rock Slide for greater damage, at a detriment to accuracy. Cranidos runs Jolly and maximum Speed investment to Speed tie with Choice Scarf Hisuian Growlithe and Choice Scarf Vullaby. Tera Psychic Zen Headbutt threatens to OHKO fast Mienfoo, while Tera Grass Trailblaze 2HKOs Impish Mudbray.</p> <p>Cranidos is used on bulkier Tinkatink, Toedscool, and Mareanie teams, as they have a broader defensive profile to switch in after Cranidos finishes off a Pokemon or whiffs. Cranidos outspeeds and threatens the Pokemon that break the Tinkatink, Toedscool, Mareanie core, like Elekid and Chinchou. Cranidos is weak to Mudbray teams and slow or Scarf Mienfoo, especially when used together. Toedscool makes the Mudbray matchup much easier. Cranidos is also weak to entry hazard and recoil damage.</p>"
+      }
+    },
+    "credits": {"writtenBy": [{"user_id": 588507, "username": "emptywisdom"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 605215, "username": "Flou"}, {"user_id": 537035, "username": "Rahul"}]}, {"name": "Grammar checked by", "members": [{"user_id": 537035, "username": "Rahul"}]}]}
+  },
   "Buizel": {"sets": {"Rain Wallbreaker": {}}, "credits": {"writtenBy": [], "teams": [{"name": "Set(s) by", "members": [{"user_id": 330191, "username": "Altariel von Sweep"}]}]}},
   "Shellos": {
     "sets": {
@@ -201,7 +217,14 @@
     },
     "credits": {"writtenBy": [{"user_id": 641532, "username": "bleahey"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 387847, "username": "Hacker"}, {"user_id": 568849, "username": "Colin"}, {"user_id": 605215, "username": "Flou"}]}, {"name": "Grammar checked by", "members": [{"user_id": 555379, "username": "Tbolt"}]}]}
   },
-  "Larvesta": {"sets": {"Defensive": {}}},
+  "Larvesta": {
+    "sets": {
+      "Defensive Pivot": {
+        "description": "<p>Larvesta's typing, high natural bulk, ability to spread burns, and access to reliable recovery make it a strong defensive pivot. With its high physical Defense and Flame Body, Larvesta can check physical attackers such as Mienfoo and Alolan Sandshrew. Alternatively, Will-O-Wisp offers a more consistent way to burn foes. With Morning Sun, Larvesta can reliably heal itself, helping it continuously check foes while pivoting. This EV spread maximizes bulk, allowing Larvesta to repeatedly fish for burns. Tera Fairy retains Larvesta's Fighting resistance while gaining a Dark resistance, which can be useful against foes such as Vullaby and Mienfoo that use Knock Off. Additionally, Terastallizing removes Larvesta's 4x weakness to Stealth Rock.</p> <p>Because of its weakness to Stealth Rock, Larvesta requires hazard control, making options such as Rapid Spin Toedscool and Alolan Sandshrew strong partners. In return, Larvesta can check Mienfoo and opposing Alolan Sandshrew. Larvesta is an excellent partner for Gothita, gaining momentum by using U-turn on resists such as Glimmet and Mareanie to bring Gothita in safely so it can trap them. Larvesta's burn support can also help setup sweepers like Nasty Plot Vullaby find more setup opportunities.</p>"
+      }
+    },
+    "credits": {"writtenBy": [{"user_id": 649184, "username": "xonks"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 605215, "username": "Flou"}, {"user_id": 537035, "username": "Rahul"}]}, {"name": "Grammar checked by", "members": [{"user_id": 537035, "username": "Rahul"}]}]}
+  },
   "Chespin": {
     "sets": {
       "Defensive Spikes": {
@@ -261,7 +284,14 @@
   "Chewtle": {"sets": {"Shell Smash": {}}},
   "Impidimp": {"sets": {"Dual Screens": {}}},
   "Fuecoco": {"outdated": true, "sets": {"Defensive": {}}, "credits": {"writtenBy": [], "teams": [{"name": "Set(s) by", "members": [{"user_id": 607664, "username": "Joeshh"}]}]}},
-  "Quaxly": {"sets": {"Rapid Spin": {}}},
+  "Quaxly": {
+    "sets": {
+      "Offensive Rapid Spin": {
+        "description": "<p>Quaxly fills a niche as an offensive spinner on teams weak to Pokemon like Hisuian Growlithe and Alolan Diglett. Investing 196 EVs into Speed brings Quaxly to the 14 Speed benchmark required to outspeed every unboosted Pokemon after a Rapid Spin boost. Brave Bird allows Quaxly to KO a knocked Foongus after Stealth Rock damage. Quaxly can Terastallize into a Flying-type to 2HKO knocked Mareanie or OHKO Eviolite Foongus after a Rapid Spin boost. Aqua Jet revenge kills many sweepers in the tier such as Tera Ground Vullaby, Hisuian Growlithe, and Alolan Diglett. Moxie can help Quaxly snowball and sweep as it gains boosts.</p> <p>Quaxly is best paired with Pokemon that appreciate entry hazard removal. Wingull is a good example due to its powerful STAB move combination can help Quaxly overwhelm its checks. Quaxly struggles to deal with Chinchou, so pairing it with Alolan Diglett or Choice Scarf Gothita is wise. Quaxly can also have a hard time picking up KOs on its own, so supporting it with entry hazards and Knock Off users such as Mudbray and Mienfoo is beneficial.</p>"
+      }
+    },
+    "credits": {"writtenBy": [{"user_id": 562580, "username": "Winterbub"}], "teams": [{"name": "Quality checked by", "members": [{"user_id": 605215, "username": "Flou"}, {"user_id": 537035, "username": "Rahul"}]}, {"name": "Grammar checked by", "members": [{"user_id": 537035, "username": "Rahul"}]}]}
+  },
   "Nymble": {
     "sets": {
       "Revenge Killer": {
